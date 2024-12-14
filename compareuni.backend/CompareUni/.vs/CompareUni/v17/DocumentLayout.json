@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\MongKe\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|c:\\users\\mongke\\desktop\\compareuni\\compareuni.backend\\compareuni\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|c:\\users\\mongke\\desktop\\compareuni\\compareuni.backend\\compareuni\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,19 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-15T05:13:06.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
