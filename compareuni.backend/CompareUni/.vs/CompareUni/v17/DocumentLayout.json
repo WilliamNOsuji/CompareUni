@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MongKe\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\",
+  "WorkspaceRootPath": "C:\\Users\\willi\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|c:\\users\\mongke\\desktop\\compareuni\\compareuni.backend\\compareuni\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|c:\\users\\willi\\desktop\\compareuni\\compareuni.backend\\compareuni\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|c:\\users\\willi\\desktop\\compareuni\\compareuni.backend\\compareuni\\models\\programuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|solutionrelative:models\\programuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|c:\\users\\willi\\desktop\\compareuni\\compareuni.backend\\compareuni\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F54C5879-9627-406F-8325-4E00668A3326}|CompareUni.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\willi\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:03:14.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramUni.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Models\\ProgramUni.cs",
+              "RelativeDocumentMoniker": "Models\\ProgramUni.cs",
+              "ToolTip": "C:\\Users\\willi\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Models\\ProgramUni.cs",
+              "RelativeToolTip": "Models\\ProgramUni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:41:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\MongKe\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\MongKe\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\willi\\Desktop\\CompareUni\\compareuni.backend\\CompareUni\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T05:12:55.411Z",
               "EditorCaption": ""
